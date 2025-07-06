@@ -13,7 +13,7 @@ A modern attendance management system built with React Native and Expo, featurin
 
 ## 📱 Screenshots
 
-*Screenshots will be added here*
+*Screenshots will be added soon*
 
 ## 🛠️ Tech Stack
 
